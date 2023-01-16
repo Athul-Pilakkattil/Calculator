@@ -1,0 +1,46 @@
+.main-body{
+    width: 330px;
+    height: 490px;
+    border: solid;
+    margin-left: 492px;
+    margin-top: 66px;
+    border-color:#5277d9;
+    
+}
+.screen{
+    width: 98%;
+    height: 78px;
+    background-color: #5277d9;
+    border: solid;
+    border-color:#5277d9;
+    font-size: 25px;
+    color: white;
+    text-align: right;
+    pointer-events: none;
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    background-color:#ceddf5;
+    font-size: 23px;
+    border-color: #5277d9;
+}
+.btn2{
+    width: 60px;
+    height: 60px;
+    background-color: #5a9cff;
+    font-size: 23px;
+    color: white;
+    border-color: #5277d9;
+}
+.row{
+    margin-left: 37px;
+    margin-top: 18px;
+}
+.btn3{
+    width: 253px;
+    height: 60px;
+    font-size: 23px;
+    color: white;
+    background-color: #5277d9;
+}
